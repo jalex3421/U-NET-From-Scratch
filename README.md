@@ -1,6 +1,6 @@
 # U-NET-From-Scratch
 
-This repository contains a complete, from-scratch implementation of the U-Net architecture for image segmentation using PyTorch. The goal of this project is to provide a clear, modular, and well-documented codebase that demonstrates the key principles of this foundational model.
+This repository contains a complete, from-scratch implementation of the U-Net architecture for image segmentation using PyTorch. The goal of this project is to provide a clear, modular, and well-documented codebase that demonstrates the key principles of this foundational model in the computer vision field.
 
 ## Key Features
 
