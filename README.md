@@ -19,6 +19,11 @@ The network's most critical feature is the use of skip connections, which transf
 * **Sanity Check:** The code includes a simple test to verify that the model's forward pass runs successfully with dummy data, confirming its structural integrity.
 * **Binary Segmentation Output:** The model is configured with a final 1-channel output layer suitable for binary segmentation tasks (e.g., foreground/background).
 
+## Contributing
+
+This project is open for contributions. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+
 ## How to Use
 
 ### Prerequisites
