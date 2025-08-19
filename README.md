@@ -1,6 +1,6 @@
 # U-NET-From-Scratch
 
-This repository provides a clean, modular, and fully documented implementation of the U-Net convolutional neural network architecture, built from scratch using PyTorch. This project serves as an educational resource to demonstrate the core principles of U-Net, a foundational model for biomedical image segmentation
+This repository provides a clean, modular, and fully documented implementation of the U-Net convolutional neural network architecture, built from scratch using PyTorch. This project serves as an educational resource to demonstrate the core principles of U-Net, a foundational model for biomedical image segmentation. 
 
 ## What is U-Net?
 The U-Net architecture is a powerful convolutional neural network designed for fast and precise semantic segmentation of images. Its key innovation is the symmetrical, U-shaped structure, which combines two paths:
@@ -22,7 +22,6 @@ The network's most critical feature is the use of skip connections, which transf
 ## Contributing
 
 This project is open for contributions. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 
 ## How to Use
 
