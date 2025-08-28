@@ -1,6 +1,6 @@
 # U-NET-From-Scratch
 
-This repository provides a clean, modular, and fully documented implementation of the U-Net convolutional neural network architecture, built from scratch using PyTorch. This project serves as an educational resource to demonstrate the core principles of U-Net, a foundational model for biomedical image segmentation
+This repository provides a clean, modular, and fully documented implementation of the U-Net convolutional neural network architecture, built from scratch using PyTorch. This project serves as an educational resource to demonstrate the core principles of U-Net, a foundational model for biomedical image segmentation.
 
 ## Why Build from Scratch?
 - Going beyond a simple library import, this project allows you to:
